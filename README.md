@@ -20,3 +20,7 @@ Ficheiros de audio:
 8_impulsos 25Hz original.wav - Audio de uma sequencia de impulso de 25Hz.
 
 9_ss sequencia impulso 25h CV1 5hz 16s 500f - Saida de audio de uma sequencia de impulsos de 25Hz aplicado na entrada do filtro StairStepped com 500 filtros e um sinal de 5Hz na entrada CV1. 
+
+10_am modulation.wav - Saida de audio de um sinal de sinusoidal de 500Hz aplicado na entrada do filtro Modulated com 1000 filtros e um sinal de portadora 1kHz e um sinal de modulacao de 0.25Hz, modulacao a 90% AM.
+
+11_exFM modulation.wav - Saida de audio de um sinal de sinusoidal de 500Hz aplicado na entrada do filtro Modulated com 1000 filtros e um sinal de portadora 1kHz e um sinal de modulacao de 0.25Hz, modulacao a 90% exponencial FM.
