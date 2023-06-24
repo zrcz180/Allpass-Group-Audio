@@ -1,4 +1,4 @@
-# Allpass-Group-Audio-
+# Allpass-Group-Audio
 Exemplos de audio projecto AllpassGroup
 
 Ficheiros de audio:
