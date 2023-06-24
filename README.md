@@ -16,3 +16,7 @@ Ficheiros de audio:
 6_ss 16step 1 filter cv9 250Hz.wav - Saida de audio de uma sequencia de impulsos de 250Hz aplicado na entrada do filtro StairStepped com 1 filtros e um sinal de 250Hz. na entrada CV9. 
 
 7_ss 16step 500 filter cv9 250Hz.wav - Saida de audio de uma sequencia de impulsos de 250Hz aplicado na entrada do filtro StairStepped com 500 filtros e um sinal de 250Hz. na entrada CV9. 
+
+8_impulsos 25Hz original.wav - Audio de uma sequencia de impulso de 25Hz.
+
+9_ss sequencia impulso 25h CV1 5hz 16s 500f - Saida de audio de uma sequencia de impulsos de 25Hz aplicado na entrada do filtro StairStepped com 500 filtros e um sinal de 5Hz na entrada CV1. 
